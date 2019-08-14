@@ -1,3 +1,7 @@
+* Designed the code using Django
+* How to install django follow the documentation
+https://www.digitalocean.com/community/tutorials/how-to-install-the-django-web-framework-on-ubuntu-16-04
+
 How to Run
 1) python3 manage.py makemigrations
 2) python3 manage.py migrate
