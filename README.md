@@ -7,3 +7,6 @@ How to Run
 API query form browser
 http://localhost:1147/search/?word=pract
 
+output:
+
+![image](https://user-images.githubusercontent.com/16955073/63015548-df36ac80-beae-11e9-806f-f6dd71b8b001.png)
